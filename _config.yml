@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+title: "Dayzen's blog"
+name: "Dayzen"
+description: "want to know more about the serverless architecture, JS backend"
+url: http://syeutyu.github.io
+baseurl: ""
